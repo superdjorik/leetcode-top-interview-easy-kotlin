@@ -1,0 +1,12 @@
+# IntellijIdea files
+*.iml
+
+# Maven
+log/
+target/
+/.idea/
+/out/production/
+/out/production/leetcode/
+/out/
+/src/Main.kt
+
