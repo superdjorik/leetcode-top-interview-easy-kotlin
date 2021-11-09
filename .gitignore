@@ -1,7 +1,7 @@
 # IntellijIdea files
 *.iml
+.gitignore
 
-# Maven
 log/
 target/
 /.idea/
@@ -9,4 +9,5 @@ target/
 /out/production/leetcode/
 /out/
 /src/Main.kt
+/src/temp.kt
 
