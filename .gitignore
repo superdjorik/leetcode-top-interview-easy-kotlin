@@ -1,0 +1,13 @@
+# IntellijIdea files
+*.iml
+.gitignore
+
+log/
+target/
+/.idea/
+/out/production/
+/out/production/leetcode/
+/out/
+/src/Main.kt
+/src/temp.kt
+
